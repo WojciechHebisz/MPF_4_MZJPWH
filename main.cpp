@@ -99,7 +99,7 @@ int main()
         { 0, 3, 0 }
     };
 
-    int fac_rate = 3;
+    int fac_rate = 2;
 
     calfp(frates, fac_rate);
 
